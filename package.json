@@ -1,0 +1,8 @@
+{
+	"dependencies": {
+		"fastify": "^3.27.0",
+		"fastify-autoload": "^3.10.0",
+		"fastify-plugin": "^3.0.1",
+		"pg": "^8.7.1"
+	}
+}
